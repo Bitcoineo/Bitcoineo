@@ -12,7 +12,7 @@ I'm currently...
 I'm excited about...
 
 - curiosity compounding. research → alpha → products → repeat
-- experiences that hit every sense at once
+- curating delightful experiences
 - ethereum's values and why they still matter after all this noise
 - making tools I actually want to exist
 
