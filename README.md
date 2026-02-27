@@ -22,7 +22,7 @@ So I build them.
 |--|--|--|
 | [Streaks](https://github.com/Bitcoineo/streaks) | Habit tracker | I needed to build better habits |
 | [Marathon Tracker](https://github.com/Bitcoineo/marathonTracker) | PWA for marathon training | I'm training for one |
-| [Claude Usage Extension](https://github.com/Bitcoineo/claudeUsageExtension) | Tracks Claude.ai usage | I was curious how mu it |
+| [Claude Usage Extension](https://github.com/Bitcoineo/claudeUsageExtension) | Tracks Claude.ai usage | I was curious how much I use it |
 | [Gas Tracker](https://github.com/Bitcoineo/gasTrackerExtension) | Real-time ETH gas prices | I was tired of checking manually |
 | [DeFi Research Agent](https://github.com/Bitcoineo/liveResearchAgent) | Automated DeFi due diligence | I do this research anyway |
 | [Contract Scanner](https://github.com/Bitcoineo/contractScanner) | Ethereum contract security | I wanted to understand what I was aping into |
