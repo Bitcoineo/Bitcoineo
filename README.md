@@ -44,4 +44,4 @@ Weird over boring. Every single time.
 
 ---
 
-[@Bitcoineo](https://twitter.com/Bitcoineo) · Substack · Based in Thailand
+[![X](https://img.shields.io/badge/@Bitcoineo-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Bitcoineo) · [Substack](https://substack.com/@bitcoineo) · Based in Thailand
