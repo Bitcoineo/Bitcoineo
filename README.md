@@ -44,4 +44,4 @@ Weird over boring. Every single time.
 
 ---
 
-Find me on [X](https://twitter.com/Bitcoineo) or [Substack](https://substack.com/@bitcoineo) · Based in Thaiand
+Find me on [X](https://twitter.com/Bitcoineo) or [Substack](https://substack.com/@bitcoineo) · Based in Thailand
