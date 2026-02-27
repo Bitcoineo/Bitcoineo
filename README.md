@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # Gm, I'm Alexis 👋
 
 I'm currently...
