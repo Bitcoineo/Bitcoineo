@@ -18,11 +18,19 @@ I'm excited about...
 
 So I build them.
 
-I track my habits with [Streaks](https://github.com/Bitcoineo/streaks).
-I train with [Marathon Tracker](https://github.com/Bitcoineo/marathonTracker).
-I monitor my Claude usage with [this extension](https://github.com/Bitcoineo/claudeUsageExtension) I built because I was curious.
-I research DeFi with an [agent I wrote](https://github.com/Bitcoineo/liveResearchAgendoes the boring parts for me.
-And when ETH gas spikes, my [Gas Tracker](https://github.com/Bitcoineo/gasTrackerExtension) tells me before I even check.
+| | | |
+|--|--|--|
+| [Streaks](https://github.com/Bitcoineo/streaks) | Habit tracker | I needed to build better habits |
+| [Marathon Tracker](https://github.com/Bitcoineo/marathonTracker) | PWA for marathon training | I'm training for one |
+| [Claude Usage Extension](https://github.com/Bitcoineo/claudeUsageExtension) | Tracks Claude.ai usage | I was curious how mu it |
+| [Gas Tracker](https://github.com/Bitcoineo/gasTrackerExtension) | Real-time ETH gas prices | I was tired of checking manually |
+| [DeFi Research Agent](https://github.com/Bitcoineo/liveResearchAgent) | Automated DeFi due diligence | I do this research anyway |
+| [Contract Scanner](https://github.com/Bitcoineo/contractScanner) | Ethereum contract security | I wanted to understand what I was aping into |
+| [Snip](https://github.com/Bitcoineo/snip) | URL shortener | I wanted to ship something clean |
+
+*This is just a sample. Check my [repos](https://github.com/Bitcoineo?tab=repositories) for the full list.*
+
+---
 
 I'm obsessed with motion.
 
@@ -36,8 +44,4 @@ Weird over boring. Every single time.
 
 ---
 
-*This is just a sample. Check my [repos](https://github.com/Bitcoineo?tab=repositories) for the full list.*
-
----
-
-Find me on [X](https://twitter.com/Bitcoineo) or [Substack](https://substack.com/@bitcoineo) · Based in Thailand
+Find me on [X](https://twitter.com/Bitcoineo) or [Substack](https://substack.com/@bitcoineo) · Based in Thaiand
