@@ -14,7 +14,7 @@ I'm excited about...
 - curiosity compounding. research → alpha → products → repeat
 - experiences that hit every sense at once
 - ethereum's values and why they still matter after all this noise
-- building tools I actually want to exist
+- making tools I actually want to exist
 
 So I build them.
 
