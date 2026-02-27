@@ -40,7 +40,7 @@ Weird over boring. Every single time.
 | [Claude Usage Extension](https://github.com/Bitcoineo/claudeUsageExtension) | Tracks Claude.ai usage from the browser |
 | [Gas Tracker](https://github.com/Bitcoineo/gasTrackerExtension) | Real-time ETH gas prices, Chrome Web Store |
 
-*All shipped in a few weeks. All real tools I wanted to exist.*
+*This is just a sample. Check my [repos](https://github.com/Bitcoineo?tab=repositories) for the full list.*
 
 ---
 
