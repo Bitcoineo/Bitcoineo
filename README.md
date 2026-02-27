@@ -5,7 +5,7 @@ I'm currently...
 - building with Claude Code. no coding background, first time in my life
   I feel like I have superpowers
 - training for a marathon (send help)
-- researching DeFi protocols and writing what I find on Substack
+- researching defi protocols and writing what I find on Twitter
 - drinking too much coffee somewhere in Thailand
 - going down YouTube rabbit holes I have no business being in
 
@@ -13,7 +13,7 @@ I'm excited about...
 
 - curiosity compounding. research → alpha → products → repeat
 - experiences that hit every sense at once
-- Ethereum's values and why they still matter after all this noise
+- ethereum's values and why they still matter after all this noise
 - building tools I actually want to exist
 
 I'm obsessed with motion.
