@@ -26,7 +26,7 @@ So I build them.
 | [Gas Tracker](https://github.com/Bitcoineo/gasTrackerExtension) | Real-time ETH gas prices | I was tired of checking manually |
 | [DeFi Research Agent](https://github.com/Bitcoineo/liveResearchAgent) | Automated DeFi due diligence | I do this research anyway |
 | [Contract Scanner](https://github.com/Bitcoineo/contractScanner) | Ethereum contract security | I wanted to understand what I was aping into |
-| [Snip](https://github.com/Bitcoineo/snip) | URL shortener | I wanted to ship something clean |
+| [Snip](https://github.com/Bitcoineo/snip) | URL shortener | I wanted to understand how reflink tracking works |
 
 *This is just a sample. Check my [repos](https://github.com/Bitcoineo?tab=repositories) for the full list.*
 
