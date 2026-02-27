@@ -16,6 +16,14 @@ I'm excited about...
 - ethereum's values and why they still matter after all this noise
 - building tools I actually want to exist
 
+So I build them.
+
+I track my habits with [Streaks](https://github.com/Bitcoineo/streaks).
+I train with [Marathon Tracker](https://github.com/Bitcoineo/marathonTracker).
+I monitor my Claude usage with [this extension](https://github.com/Bitcoineo/claudeUsageExtension) I built because I was curious.
+I research DeFi with an [agent I wrote](https://github.com/Bitcoineo/liveResearchAgendoes the boring parts for me.
+And when ETH gas spikes, my [Gas Tracker](https://github.com/Bitcoineo/gasTrackerExtension) tells me before I even check.
+
 I'm obsessed with motion.
 
 Running clears my head. Music moves my body. Claude moves my ideas forward.
@@ -27,18 +35,6 @@ If any of that resonates, reach out.
 Weird over boring. Every single time.
 
 ---
-
-## What I've shipped
-
-| | |
-|--|--|
-| [Streaks](https://github.com/Bitcoineo/streaks) | Habit tracker, auth, analytics, deployed |
-| [Snip](https://github.com/Bitcoineo/snip) | URL shortener with click analytics & QR codes |
-| [Marathon Tracker](https://github.com/Bitcoineo/marathonTracker) | PWA for marathon training, live |
-| [Contract Scanner](https://github.com/Bitcoineo/contractScanner) | Ethereum contract security, 30+ patterns |
-| [DeFi Research Agent](https://github.com/Bitcoineo/liveResearchAgent) | Automated DeFi due diligence with live data |
-| [Claude Usage Extension](https://github.com/Bitcoineo/claudeUsageExtension) | Tracks Claude.ai usage from the browser |
-| [Gas Tracker](https://github.com/Bitcoineo/gasTrackerExtension) | Real-time ETH gas prices, Chrome Web Store |
 
 *This is just a sample. Check my [repos](https://github.com/Bitcoineo?tab=repositories) for the full list.*
 
