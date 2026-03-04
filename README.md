@@ -20,10 +20,11 @@ So I build them.
 
 | | | |
 |--|--|--|
-| [ShipBoard](https://github.com/Bitcoineo/shipboard) | Multi-tenant kanban board | I wanted to understand role-based permissions |
-| [SubTrack](https://github.com/Bitcoineo/subtrack) | SaaS subscription dashboard | I wanted to understand recurring billing |
-| [Shelf](https://github.com/Bitcoineo/shelf) | Digital product storefront | I wanted to understand Stripe webhooks |
-| [Pollster](https://github.com/Bitcoineo/pollster) | Real-time polling with SSE | I wanted to understand server-sent events |
+| [Relay](https://github.com/Bitcoineo/relay) | Real-time team chat | I wanted to understand WebSockets and presence tracking end to end |
+| [ShipBoard](https://github.com/Bitcoineo/shipboard) | Multi-tenant kanban board | I built a tool I actually use to manage my own projects |
+| [SubTrack](https://github.com/Bitcoineo/subtrack) | SaaS subscription dashboard | I wanted to know what it feels like to charge someone monthly |
+| [Shelf](https://github.com/Bitcoineo/shelf) | Digital product storefront | I wanted to sell something and watch the money land |
+| [Pollster](https://github.com/Bitcoineo/pollster) | Real-time polling with SSE | I wanted votes to appear without refreshing the page |
 | [Streaks](https://github.com/Bitcoineo/streaks) | Habit tracker | I needed to build better habits |
 | [Marathon Tracker](https://github.com/Bitcoineo/marathonTracker) | PWA for marathon training | I'm training for one |
 | [Claude Usage Extension](https://github.com/Bitcoineo/claudeUsageExtension) | Tracks Claude.ai usage | I was curious how much I use it |
