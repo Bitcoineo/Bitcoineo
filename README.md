@@ -1,20 +1,10 @@
 # Gm, I'm Bitcoineo 👋
 
-I'm currently...
+Building with Claude Code. No coding background — first time in my life I actually feel like I have superpowers.
 
-- building with Claude Code. no coding background, first time in my life
-  I feel like I have superpowers
-- training for a marathon (send help)
-- researching defi protocols and writing what I find on Twitter
-- drinking too much coffee somewhere in Thailand
-- going down YouTube rabbit holes I have no business being in
+Training for a marathon somewhere in Thailand (send help), researching DeFi protocols, writing what I find on Twitter, and going down YouTube rabbit holes I have no business being in.
 
-I'm excited about...
-
-- curiosity compounding. research → alpha → products → repeat
-- curating delightful experiences
-- ethereum's values and why they still matter after all this noise
-- making tools I actually want to exist
+The thing I keep coming back to: if you understand something well enough to build it, you actually understand it. Ethereum's values still matter after all this noise. Curiosity compounds. And the tools I want to use mostly don't exist yet.
 
 So I build them.
 
