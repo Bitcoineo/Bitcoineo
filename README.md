@@ -20,6 +20,8 @@ So I build them.
 
 | | | |
 |--|--|--|
+| [Vault](https://github.com/Bitcoineo/vault) | Personal cloud storage | I wanted to learn file management and hosting |
+| [Pulse](https://github.com/Bitcoineo/pulse) | Web analytics dashboard | I wanted to work with data manipulation and visualisation |
 | [Relay](https://github.com/Bitcoineo/relay) | Real-time team chat | I wanted to understand WebSockets and presence tracking end to end |
 | [ShipBoard](https://github.com/Bitcoineo/shipboard) | Multi-tenant kanban board | I built a tool I actually use to manage my own projects |
 | [SubTrack](https://github.com/Bitcoineo/subtrack) | SaaS subscription dashboard | I wanted to know what it feels like to charge someone monthly |
