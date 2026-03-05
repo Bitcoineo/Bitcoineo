@@ -22,8 +22,8 @@ So I build them.
 |--|--|--|
 | [Vault](https://github.com/Bitcoineo/vault) | Personal cloud storage | I wanted to learn file management and hosting |
 | [Pulse](https://github.com/Bitcoineo/pulse) | Web analytics dashboard | I wanted to work with data manipulation and visualisation |
-| [Relay](https://github.com/Bitcoineo/relay) | Real-time team chat | I wanted to understand WebSockets and presence tracking end to end |
-| [ShipBoard](https://github.com/Bitcoineo/shipboard) | Multi-tenant kanban board | I built a tool I actually use to manage my own projects |
+| [Relay](https://github.com/Bitcoineo/relay) | Real-time team chat | I wanted to build a discord-like app |
+| [ShipBoard](https://github.com/Bitcoineo/shipboard) | Multi-tenant kanban board | I needed a board to track my own projects |
 | [SubTrack](https://github.com/Bitcoineo/subtrack) | SaaS subscription dashboard | I wanted to know what it feels like to charge someone monthly |
 | [Shelf](https://github.com/Bitcoineo/shelf) | Digital product storefront | I wanted to sell something and watch the money land |
 | [Pollster](https://github.com/Bitcoineo/pollster) | Real-time polling with SSE | I wanted votes to appear without refreshing the page |
